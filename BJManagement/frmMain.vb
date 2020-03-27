@@ -31,6 +31,8 @@ Public Class frmMain
             BindCtlsToProcess(Me, 25)
             Me.WindowState = FormWindowState.Normal
 
+            'just for GitHub testing
+
             pnlBody.Visible = True
             grpInput.Visible = True
             grpHeader.Visible = False
