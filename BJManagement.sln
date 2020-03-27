@@ -1,0 +1,61 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "BJManagement", "BJManagement\BJManagement.vbproj", "{85657CE0-E358-49C6-9EC7-E51EE20501E6}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "eTrace_OracleERP", "..\..\..\Visual Studio 2005\WebSites\eTrace_OracleERP", "{9318241B-897F-42E7-9F59-AAFF9A1E3FBC}"
+	ProjectSection(WebsiteProperties) = preProject
+		SccProjectName = "SAK"
+		SccAuxPath = "SAK"
+		SccLocalPath = "SAK"
+		SccProvider = "SAK"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv2.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_64840"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\Visual Studio 2005\WebSites\eTrace_OracleERP\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_64840\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_64840"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\Visual Studio 2005\WebSites\eTrace_OracleERP\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_64840\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "64840"
+		VWDDynamicPort = "true"
+		SlnRelativePath = "..\..\..\Visual Studio 2005\WebSites\eTrace_OracleERP\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85657CE0-E358-49C6-9EC7-E51EE20501E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85657CE0-E358-49C6-9EC7-E51EE20501E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85657CE0-E358-49C6-9EC7-E51EE20501E6}.Debug|x86.ActiveCfg = Debug|x86
+		{85657CE0-E358-49C6-9EC7-E51EE20501E6}.Debug|x86.Build.0 = Debug|x86
+		{85657CE0-E358-49C6-9EC7-E51EE20501E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85657CE0-E358-49C6-9EC7-E51EE20501E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85657CE0-E358-49C6-9EC7-E51EE20501E6}.Release|x86.ActiveCfg = Release|x86
+		{85657CE0-E358-49C6-9EC7-E51EE20501E6}.Release|x86.Build.0 = Release|x86
+		{9318241B-897F-42E7-9F59-AAFF9A1E3FBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9318241B-897F-42E7-9F59-AAFF9A1E3FBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9318241B-897F-42E7-9F59-AAFF9A1E3FBC}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{9318241B-897F-42E7-9F59-AAFF9A1E3FBC}.Debug|x86.Build.0 = Debug|Any CPU
+		{9318241B-897F-42E7-9F59-AAFF9A1E3FBC}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{9318241B-897F-42E7-9F59-AAFF9A1E3FBC}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{9318241B-897F-42E7-9F59-AAFF9A1E3FBC}.Release|x86.ActiveCfg = Debug|Any CPU
+		{9318241B-897F-42E7-9F59-AAFF9A1E3FBC}.Release|x86.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

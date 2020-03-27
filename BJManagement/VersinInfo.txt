@@ -1,0 +1,22 @@
+1.Display/Close TO                    -By Cherrie Yan
+
+Based on the creation TO,add the Display / close TO function.
+It is used to operate the TO.If select one TO,you will see the Materil list which be embraced in the TO,such as picked Qty,open Qty.
+if the TO is invalid,you could close the TO,even the material.Additionally,if the TO is locked by others,you could unlock it.
+
+2.Download to Excel                   -By Cherrie Yan
+
+To meet user's requirement which need the download datas to check the picking,add the download function.The download datas mainly from 
+the PO info and Material List info .Inorder to achieve the download more quickly,we utilize the Excel 2003 to read xml.
+
+3. Allow Muliti-POs download bom      -By Cherrie Yan
+
+As per SMT Area's request,update from the single PO to Multi-POs download bom.In the actually operations,there are two cases.
+One is Multi-POs for Multi-PCB,the other is Multi-POs for single PCB.Different cases will be different dealed with.The difference will 
+be displayed in the program.
+
+4.Add the upload Excel File Function -By Cherrie Yan
+The upload requirement is requested by user.As they always need to modify the download BOM data,they want to have more quickly way to fix
+the problem and replace the manual operation.
+
+
